@@ -5,6 +5,10 @@ theme:
     -navigation.tabs
     -content.code.copy
   language: en
+  palette:
+    scheme: default
+    primary: green
+
 
 markdown_extensions:
   - pymdownx.snippets:
