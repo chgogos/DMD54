@@ -16,6 +16,8 @@
     * [Βίντεο περιγραφής λύσης](./resources/Άσκηση%20ERD-Σχεσιακό%20μοντέλο.mp4)[^1]
 * [Άσκηση κανονικοποίησης](./resources/Άσκηση%20κανονικοποίησης.pdf)
     * [Βίντεο περιγραφής λύσης](./resources/Άσκηση%20κανονικοποίησης.mp4)[^1]
+* [Ασκήσεις 2ης ΟΣΣ](./resources/Ασκήσεις%202ης%20ΟΣΣ.xlsx)
+* [Μετατροπή ERD σε σχεσιακό μοντέλο](./resources/Μετατροπή%20ERD%20σε%20Σχεσιακό%20μοντέλο.xlsx)
 
 [^1]: Το βίντεο δημιουργήθηκε από το μέλος ΣΕΠ της ΔΜΔ54, Ηλία Γουνόπουλο
 
@@ -23,8 +25,8 @@
 
 ## Νομοθετικές πράξεις Ευρωπαϊκής Ένωσης (EU Acts)
 
-* EU Data Act
-* EU AI Act
+* [EU Data Act](https://ec.europa.eu/commission/presscorner/detail/el/ip_23_3491)
+* [EU AI Act](https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai)
 
 ### Podcasts
 
