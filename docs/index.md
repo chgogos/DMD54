@@ -23,7 +23,7 @@
 
 ## Διάφορα
 
-## Νομοθετικές πράξεις Ευρωπαϊκής Ένωσης (EU Acts)
+### Νομοθετικές πράξεις Ευρωπαϊκής Ένωσης (EU Acts)
 
 * [EU Data Act](https://ec.europa.eu/commission/presscorner/detail/el/ip_23_3491)
 * [EU AI Act](https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai)
