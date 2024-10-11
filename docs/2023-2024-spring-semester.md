@@ -1,3 +1,10 @@
+# Μέλη ΣΕΠ
+
+* [Γκόγκος Χρήστος](https://www.linkedin.com/in/christos-gogos-07a75bb) (συντονιστής)
+* [Γουνόπουλος Ηλίας](https://www.linkedin.com/in/eliasgounopoulos/)
+* [Καρέτσος Σωτήριος](https://www.linkedin.com/in/sotiris-karetsos-088b562a/)
+* [Κούφη Βασιλική](https://www.linkedin.com/in/vassiliki-koufi-163a6512/)
+
 # Υλικό
 
 ## Διαφάνειες Ομαδικών Συμβουλευτικών Συναντήσεων
