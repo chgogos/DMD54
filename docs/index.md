@@ -1,6 +1,6 @@
 # Δημόσια Διοίκηση και Ηλεκτρονική Διακυβέρνηση
 
-Σελίδα υποστήριξης της Θεματικής Ενότητας [ΔΜΔ54 - Πληροφοριακά Συστήματα και Ηλεκτρονική Διακυβέρνηση](https://www.eap.gr/education/postgraduate/biannual/dimosia-dioikisi-ilektroniki-diakyvernisi/topics-2/#dmd54) του Προγράμματος Μεταπτυχιακών Σπουδών [Δημόσια Διοίκηση και Ηλεκτρονική Διακυβέρνηση](https://www.eap.gr/education/postgraduate/biannual/dimosia-dioikisi-ilektroniki-diakyvernisi/) που διοργανώνει η Σχολή Κοινωνικών Επιστημών του Ελληνικού Ανοικτού Πανεπιστημίου. Η κύρια σελίδα της Θεματικής Ενότητας ΔΜΔ54 είναι η <https://courses.eap.gr/course/view.php?id=1234>.
+Σελίδα υποστήριξης της Θεματικής Ενότητας [ΔΜΔ54 - Πληροφοριακά Συστήματα και Ηλεκτρονική Διακυβέρνηση](https://www.eap.gr/education/postgraduate/biannual/dimosia-dioikisi-ilektroniki-diakyvernisi/topics-2/#dmd54) του Προγράμματος Μεταπτυχιακών Σπουδών [Δημόσια Διοίκηση και Ηλεκτρονική Διακυβέρνηση](https://www.eap.gr/education/postgraduate/biannual/dimosia-dioikisi-ilektroniki-diakyvernisi/) που διοργανώνει η [Σχολή Κοινωνικών Επιστημών του Ελληνικού Ανοικτού Πανεπιστημίου](https://www.eap.gr/education/ske/). Η κύρια σελίδα της Θεματικής Ενότητας ΔΜΔ54 είναι η <https://courses.eap.gr/course/view.php?id=1234>.
 
 ## ΔΜΔ54 - Πληροφοριακά Συστήματα Ηλεκτρονικής Διακυβέρνησης
 
@@ -49,7 +49,7 @@
 ### Podcasts
 
 * [Απλά ψηφιακά](https://open.spotify.com/show/7JiW8DRsmqTR8ru5iUtNkS)
-  * [Απλά Ψηφιακά 116: Ο Δ. Παπαστεργίου και τα επόμενα βήματα του υπουργείου Ψηφιακής Διακυβέρνησης](https://open.spotify.com/episode/4zx5H62qcppPb4McH7FP3p)
+    * [Απλά Ψηφιακά 116: Ο Δ. Παπαστεργίου και τα επόμενα βήματα του υπουργείου Ψηφιακής Διακυβέρνησης](https://open.spotify.com/episode/4zx5H62qcppPb4McH7FP3p)
 * [pod.gr - Do it Like Εσθονία: Ψηφιακή διακυβέρνηση](https://soundcloud.com/user-46820274-209698857/do-it-like-do-it-like-esthonia-psifiaki-diakivernisi)
 * [The Digital Government podcast](https://ega.ee/digital-government-podcast/)
 * [Transform Gov - the digital government podcast](https://shows.acast.com/transform-the-digital-government-podcast)
