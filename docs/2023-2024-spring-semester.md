@@ -15,6 +15,7 @@
 ## Γραπτή εργασία 1 και ενδεικτική λύση
 * [Εκφώνηση](./resources/spring_2023_2024_ge1.pdf)
 * [Ενδεικτική λύση](./resources/spring_2023_2024_ge1_sol.pdf)
+    * [Αρχείο projectlibre](./resources/spring_2023_2024_ge1_sol.pod)
 
 ## Γραπτή εργασία 2 και ενδεικτική λύση
 * [Εκφώνηση](./resources/spring_2023_2024_ge2.pdf)
