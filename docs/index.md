@@ -13,12 +13,17 @@
 
 ### Προαιρετικό υλικό (εβδομάδες 1-4)
 
-* [Educative: What is the COCOMO model?](https://www.educative.io/answers/what-is-the-cocomo-model)
-* [Πανεπιστήμιο Αιγαίου, Τεχνολογία Λογισμικού - εκτίμηση κόστους λογισμικού (Χαραλαμπίδης Ιωάννης)](https://eclass.aegean.gr/modules/document/file.php/ICSD121/Διδακτικό%20Πακέτο/Διαφάνειες%20Μαθήματος/SoftwareEngineering_13_SoftwareCostEstimation.pdf)
+* COCOMO (Constructive Cost Modeling) BASIC
+    * [Educative: What is the COCOMO model?](https://www.educative.io/answers/what-is-the-cocomo-model)
+    * [BASIC COCOMO calculation](http://groups.umd.umich.edu/cis/course.des/cis525/js/f00/kutcher/kutcher.html)
+    * [Mike's Basic COCOMO Calculator!](http://groups.umd.umich.edu/cis/course.des/cis525/js/f00/baker/cocomo.html)
+    * [Πανεπιστήμιο Αιγαίου, Τεχνολογία Λογισμικού - εκτίμηση κόστους λογισμικού (Χαραλαμπίδης Ιωάννης)](https://eclass.aegean.gr/modules/document/file.php/ICSD121/Διδακτικό%20Πακέτο/Διαφάνειες%20Μαθήματος/SoftwareEngineering_13_SoftwareCostEstimation.pdf)
 * Πρωτοτυποποίηση
     * [Figma for beginners (4 parts)](https://help.figma.com/hc/en-us/sections/4405269443991-Figma-for-Beginners-tutorial-4-parts-)
     * [Rapid Prototyping: Sketching & Paper Prototyping.](https://youtu.be/JMjozqJS44M)
-* [Business Process Model and Notation: An introductory guide](https://www.signavio.com/bpmn-introductory-guide/)
+* BPMN
+    * [Business Process Model and Notation: An introductory guide](https://www.signavio.com/bpmn-introductory-guide/)
+
 
 ### Άλλα χρήσιμα αρχεία
 
