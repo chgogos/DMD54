@@ -47,6 +47,9 @@
 * [Ganttproject](https://www.ganttproject.biz/download)
 * [Mermaid Live Editor](https://mermaid.live/) web application
 * [Figma](https://www.figma.com/) web application
+* [Lucid Chart](https://www.lucidchart.com/) web application
+* [Draw.io ](https://github.com/jgraph/drawio-desktop/releases) 
+    * [Draw.io](https://app.diagrams.net/) web application
 
 ### Bιβλία
 
