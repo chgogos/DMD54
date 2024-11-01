@@ -3,17 +3,17 @@
 * [Γκόγκος Χρήστος](https://www.linkedin.com/in/christos-gogos-07a75bb) (συντονιστής) 
     * cgogos@eap.gr;cgogos@uoi.gr;chgogos@gmail.com
 * [Γουνόπουλος Ηλίας](https://www.linkedin.com/in/eliasgounopoulos/) 
-    <!-- * gounopoulos.ilias@ac.eap.gr;egounopoulos@uowm.gr -->
+    * gounopoulos.ilias@ac.eap.gr
 * [Δερματής Ζαχαρίας](https://www.linkedin.com/in/zacharias-dermatis-80245a85/) 
-    <!-- * dermatis.zacharias@ac.eap.gr;zderm@uop.gr -->
+    * dermatis.zacharias@ac.eap.gr
 * [Καρέτσος Σωτήριος](https://www.linkedin.com/in/sotiris-karetsos-088b562a/) 
-    <!-- * karetsos.sotirios@ac.eap.gr;karetsos@gmail.com -->
+    * karetsos.sotirios@ac.eap.gr
 * [Κούφη Βασιλική](https://www.linkedin.com/in/vassiliki-koufi-163a6512/) 
-    <!-- * koufi.vasiliki@ac.eap.gr;vassok@unipi.gr -->
+    * koufi.vasiliki@ac.eap.gr
 * [Σιμέλη Ιωάννα](https://www.linkedin.com/in/ioannasimeli/) 
-    <!-- * simelli.ioanna@ac.eap.gr;ioanna.simeli@gmail.com -->
+    * simelli.ioanna@ac.eap.gr
 * [Φαράντος Γεώργιος](https://www.linkedin.com/in/georgios-farantos-497931142/) 
-    <!-- * farantos.georgios@ac.eap.gr;grfrinark@gmail.com -->
+    * farantos.georgios@ac.eap.gr
 
 # Υλικό
 
@@ -21,17 +21,22 @@
 
 <!-- Οι διαφάνειες θα ανέβουν στο <https://courses.eap.gr/course/view.php?id=1234> στις 13/10/2024. -->
 
-* [1η ΟΣΣ (pdf)](./resources/3/ΔΙΑΦΑΝΕΙΕΣ%201ΗΣ%20ΟΣΣ.pdf) 12/10/2024 
+* [1η ΟΣΣ (pdf)](./resources/3/ΔΙΑΦΑΝΕΙΕΣ%201ΗΣ%20ΟΣΣ.pdf) (η πρώτη ΟΣΣ έγινε στις 12/10/2024)
+* 2η ΟΣΣ
 
 ## Γραπτή εργασία 1 ΧΕΙΜΕΡΙΝΟΥ ΕΞΑΜΗΝΟΥ 2024-2025
 
-Η γραπτή εργασία 1 του τρέχοντος εξαμήνου αναρτήθηκε στις 10/10/2024 στο <https://courses.eap.gr/course/view.php?id=1234>. Η εκφώνησή της και η ενδεικτική λύση της θα ανέβει εδώ την επόμενη ημέρα της λήξης προθεσμίας υποβολής των εργασιών.
-<!-- * [Εκφώνηση](./resources/fall_2024_2025_ge1.pdf) -->
+<!-- Η γραπτή εργασία 1 του τρέχοντος εξαμήνου αναρτήθηκε στις 10/10/2024 στο <https://courses.eap.gr/course/view.php?id=1234>. Η εκφώνησή της και η ενδεικτική λύση της θα ανέβει εδώ την επόμενη ημέρα της λήξης προθεσμίας υποβολής των εργασιών. -->
+* [Εκφώνηση](./resources/fall_2024_2025_ge1.pdf)
+* [Έγγραφο συμπλήρωσης λύσης](./resources/2024-25_DMD54_[toeponymosas]_GE1_[tmima].docx)
+<!-- * [Ενδεικτική λύση](./resources/fall_2023_2024_ge1_sol.pdf) -->
 
 
-<!-- ## Γραπτή εργασία 2 ΧΕΙΜΕΡΙΝΟΥ ΕΞΑΜΗΝΟΥ 2024-2025 
-* [Εκφώνηση](./resources/fall_2023_2024_ge2.pdf)
-* [Ενδεικτική λύση](./resources/fall_2023_2024_ge2_sol.pdf) -->
+## Γραπτή εργασία 2 ΧΕΙΜΕΡΙΝΟΥ ΕΞΑΜΗΝΟΥ 2024-2025 
+<!-- Η γραπτή εργασία 2 του τρέχοντος εξαμήνου ανακοινώθηκε στις 1/11/2024 -->
+* [Εκφώνηση](./resources/fall_2024_2025_ge2.pdf)
+* [Έγγραφο συμπλήρωσης λύσης](./resources/2024-25_DMD54_[toeponymosas]_GE2_[tmima].docx)
+<!-- * [Ενδεικτική λύση](./resources/fall_2023_2024_ge2_sol.pdf) -->
 
 
 ## Ροή Εβδομάδων Μελέτης (ΕΜ)
@@ -43,11 +48,11 @@
 5. ΕΜ5: 28/10/2024-03/11/2024 - Η 5η εβδομάδα μελέτης εξετάζει την εννοιολογική μοντελοποίηση των δεδομένων, με σκοπό τη δημιουργία Βάσεων Δεδομένων που χρησιμοποιούνται σε Πληροφοριακά Συστήματα. Η μοντελοποίηση δεδομένων πραγματοποιείται κατά τη διάρκεια της φάσης ανάλυσης συστημάτων του κύκλου ζωής ανάπτυξης συστημάτων (SDLC). 
 Στην εβδομάδα αυτή εξετάζονται σημαντικές έννοιες της μοντελοποίησης δεδομένων, όπως οι οντότητες, τα γνωρίσματα, τα κλειδιά και υποψήφια κλειδιά, και οι συσχετίσεις. 
 Στη συνέχεια, εξετάζεται η ανάλυση απαιτήσεων με σκοπό τη δημιουργία μιας βάσης δεδομένων, ενώ παρουσιάζονται αναλυτικές οδηγίες για τη σχεδίαση ενός διαγράμματος οντοτήτων-συσχετίσεων (ERD- Entity Relationship Diagram). Μελετήστε από το βιβλίο: Valacich J.S., George J.F., Hoffer J.A. (2014). Ανάλυση και σχεδίαση πληροφοριακών συστημάτων, Εκδόσεις Τζιόλα, 5η έκδοση, ISBN: 978-960-418-449-1, το κεφάλαιο 7 (Εννοιολογική μοντελοποίηση δεδομένων) σελ. 225-261. Συμβουλευτείτε επίσης τις ιστοσελίδες: <https://www.freecodecamp.org/news/crows-foot-notation-relationship-symbols-and-how-to-read-diagrams/>  και <https://www.codeproject.com/Articles/878359/Data-Modelling-using-ERD-with-Crow-Foot-Notation>
-
-<!-- 6. ΕΜ6:
+6. ΕΜ6:
 7. ΕΜ7:
 8. ΕΜ8:
-9. ΕΜ9:
+
+<!-- 9. ΕΜ9:
 10. ΕΜ10:
 11. ΕΜ11:
 12. ΕΜ12:
