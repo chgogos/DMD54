@@ -1,27 +1,19 @@
 # Μέλη ΣΕΠ
 
-* [Γκόγκος Χρήστος](https://www.linkedin.com/in/christos-gogos-07a75bb) (συντονιστής) 
-    * cgogos@eap.gr;cgogos@uoi.gr;chgogos@gmail.com
-    * https://hou.webex.com/meet/cgogos
-* [Γουνόπουλος Ηλίας](https://www.linkedin.com/in/eliasgounopoulos/) 
-    * gounopoulos.ilias@ac.eap.gr
-    * https://hou.webex.com/meet/gounopoulos.ilias
-* [Δερματής Ζαχαρίας](https://www.linkedin.com/in/zacharias-dermatis-80245a85/) 
-    * dermatis.zacharias@ac.eap.gr
-    * https://hou.webex.com/meet/dermatis.zacharias
-* [Καρέτσος Σωτήριος](https://www.linkedin.com/in/sotiris-karetsos-088b562a/) 
-    * karetsos.sotirios@ac.eap.gr
-    * https://hou.webex.com/meet/karetsos.sotirios
-* [Κούφη Βασιλική](https://www.linkedin.com/in/vassiliki-koufi-163a6512/) 
-    * koufi.vasiliki@ac.eap.gr
-    * https://hou.webex.com/meet/koufi.vasiliki
-* [Σιμέλη Ιωάννα](https://www.linkedin.com/in/ioannasimeli/) 
-    * simelli.ioanna@ac.eap.gr
-    * https://hou.webex.com/meet/simelli.ioanna
-* [Φαράντος Γεώργιος](https://www.linkedin.com/in/georgios-farantos-497931142/) 
-    * farantos.georgios@ac.eap.gr
-    * https://hou.webex.com/meet/farantos.georgios
-
+* [Γκόγκος Χρήστος](https://www.linkedin.com/in/christos-gogos-07a75bb) (συντονιστής)  - cgogos@eap.gr;cgogos@uoi.gr;chgogos@gmail.com
+    * <https://hou.webex.com/meet/cgogos>
+* [Γουνόπουλος Ηλίας](https://www.linkedin.com/in/eliasgounopoulos/) - gounopoulos.ilias@ac.eap.gr
+    * <https://hou.webex.com/meet/gounopoulos.ilias>
+* [Δερματής Ζαχαρίας](https://www.linkedin.com/in/zacharias-dermatis-80245a85/) - dermatis.zacharias@ac.eap.gr
+    * <https://hou.webex.com/meet/dermatis.zacharias>
+* [Καρέτσος Σωτήριος](https://www.linkedin.com/in/sotiris-karetsos-088b562a/) - karetsos.sotirios@ac.eap.gr
+    * <https://hou.webex.com/meet/karetsos.sotirios>
+* [Κούφη Βασιλική](https://www.linkedin.com/in/vassiliki-koufi-163a6512/) - koufi.vasiliki@ac.eap.gr
+    * <https://hou.webex.com/meet/koufi.vasiliki>
+* [Σιμέλη Ιωάννα](https://www.linkedin.com/in/ioannasimeli/) - simelli.ioanna@ac.eap.gr
+    * <https://hou.webex.com/meet/simelli.ioanna>
+* [Φαράντος Γεώργιος](https://www.linkedin.com/in/georgios-farantos-497931142/) - farantos.georgios@ac.eap.gr
+    * <https://hou.webex.com/meet/farantos.georgios>
 
 # Υλικό
 
