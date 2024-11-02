@@ -50,6 +50,9 @@
 * [Lucid Chart](https://www.lucidchart.com/) web application
 * [Draw.io ](https://github.com/jgraph/drawio-desktop/releases) 
     * [Draw.io](https://app.diagrams.net/) web application
+* [Miro](https://miro.com/)
+    * [Entity Relationship Diagram Template](https://miro.com/templates/entity-relationship-diagram/)
+    * [How to draw an ER diagram](https://miro.com/diagramming/how-to-draw-an-er-diagram/)
 
 ### Bιβλία
 
