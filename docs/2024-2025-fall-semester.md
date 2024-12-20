@@ -42,6 +42,9 @@
 * [Έγγραφο συμπλήρωσης λύσης](./resources/3/2024-25_DMD54_[toeponymosas]_GE2_[tmima].docx)
 * [Ενδεικτική λύση](./resources/3/fall_2024_2025_ge2_sol.pdf)
 
+## Κουίζ προετοιμασίας για τη ΓΕ3 
+
+<https://forms.gle/MvpACQUaNhgCwroT9>
 
 ## Ροή Εβδομάδων Μελέτης (ΕΜ)
 
