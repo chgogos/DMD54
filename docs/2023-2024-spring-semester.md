@@ -28,3 +28,7 @@
 * <https://lab.imedd.org/h-elleipsi-anoikton-dedomenon-stin-ellada-odigei-se-adiafaneia-kai-anakoptei-tin-oikonomiki-anaptyxi/>
 * <https://digital-strategy.ec.europa.eu/el/policies/data-act>
   
+
+## Τελικές εξετάσεις 
+
+* [Θέματα εξετάσεων Ιουν-2024](./resources/2/ΔΜΔ54%202024-06-23.pdf)
