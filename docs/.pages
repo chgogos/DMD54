@@ -1,6 +1,6 @@
 nav:
     - index.md
-    - 'Χειμερινό εξάμηνο 2024-2025':
-      - 2024-2025-fall-semester.md
+    - 'Εαρινό εξάμηνο 2024-2025':
+      - 2024-2025-spring-semester.md
     - 'Προηγούμενα εξάμηνα':
       - past_semesters.md
