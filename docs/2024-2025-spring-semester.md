@@ -17,9 +17,9 @@
 
 * [Εκφώνηση](./resources/4/spring_2024_2025_ge1.pdf)
 * [Έγγραφο συμπλήρωσης λύσης](./resources/4/2024-25_DMD54_[toeponymosas]_GE1_[tmima].docx)
-* [Ενδεικτική λύση](./resources/4/spring_2024_2025_ge1_sol.pdf)
+<!-- * [Ενδεικτική λύση](./resources/4/spring_2024_2025_ge1_sol.pdf)
     * [Excel αρχείο για το ερώτημα 1](./resources/4/spring_2024_2025_ge1_erotima1.xlsx)
-    * [Project Libre αρχείο για το ερώτημα 2](./resources/4/spring_2024_2025_ge1_erotima2.pod)
+    * [Project Libre αρχείο για το ερώτημα 2](./resources/4/spring_2024_2025_ge1_erotima2.pod) -->
 
 <!-- 
 <!-- ## Γραπτή εργασία 2 ΧΕΙΜΕΡΙΝΟΥ ΕΞΑΜΗΝΟΥ 2024-2025  -->
