@@ -11,7 +11,7 @@
 * [Αρχείο excel (σχήμα 4.10, σελ. 115)](./resources/ΔΜΔ54.ΕΜ3.ΕΔ2%20ΑΝΑΛΥΣΗ%20ΚΟΣΤΟΥΣ%20(Σχήμα%204.10,%20σελ.%20115).xlsx)
 
 
-### Προαιρετικό υλικό (εβδομάδες 1-4)
+### Προαιρετικό υλικό
 
 * COCOMO (Constructive Cost Modeling) BASIC
     * [Educative: What is the COCOMO model?](https://www.educative.io/answers/what-is-the-cocomo-model)
@@ -21,8 +21,10 @@
 * Πρωτοτυποποίηση
     * [Figma for beginners (4 parts)](https://help.figma.com/hc/en-us/sections/4405269443991-Figma-for-Beginners-tutorial-4-parts-)
     * [Rapid Prototyping: Sketching & Paper Prototyping.](https://youtu.be/JMjozqJS44M)
-* BPMN
-    * [Business Process Model and Notation: An introductory guide](https://www.signavio.com/bpmn-introductory-guide/)
+* Business Process Model and Notation (BPMN) 
+    * [BPMN: An introductory guide](https://www.signavio.com/bpmn-introductory-guide/)
+    * [BPMN Quick Guide](https://www.bpmnquickguide.com/)
+    * [BPMN Symbol reference](https://camunda.com/bpmn/reference/)
 
 
 ### Άλλα χρήσιμα αρχεία
@@ -30,11 +32,11 @@
 * [Αρχείο excel για δραστηριότητα COCOMO της 2ης εβδομάδας μελέτης](./resources/ΔΜΔ54%20-%20ΕΒΔΟΜΑΔΑ%20ΜΕΛΕΤΗΣ%202%20(COCOMO).xlsx)
 * [Αρχείο projectlibre (.pod) για τη δραστηριότητα χρονοπρογραμματισμού έργου της 2ης εβδομάδας μελέτης](./resources/ΔΜΔ54.ΕΜ2.ΕΔ3.pod)
 * [Αρχείο excel για δραστηριότητα ανάλυσης κόστους της 3ης εβδομάδας μελέτης](./resources/ΔΜΔ54.ΕΜ3.ΕΔ2%20COST%20ANALYSIS.xlsx)
-* [Βίντεο παρουσίασης του παραδείγματος εφαρμογής της Critical Path Method του βιβλίου](./resources/CPM.mp4)[^1]
+* [Βίντεο 🎬 παρουσίασης του παραδείγματος εφαρμογής της Critical Path Method του βιβλίου](./resources/CPM.mp4)[^1] 
 * [Άσκηση κατασκευής ERD και σχεσιακού μοντέλου](./resources/Άσκηση%20ERD-Σχεσιακό%20μοντέλο.pdf)
-    * [Βίντεο περιγραφής λύσης](./resources/Άσκηση%20ERD-Σχεσιακό%20μοντέλο.mp4)[^1]
+    * [Βίντεο 🎬 περιγραφής λύσης](./resources/Άσκηση%20ERD-Σχεσιακό%20μοντέλο.mp4)[^1] 
 * [Άσκηση κανονικοποίησης](./resources/Άσκηση%20κανονικοποίησης.pdf)
-    * [Βίντεο περιγραφής λύσης](./resources/Άσκηση%20κανονικοποίησης.mp4)[^1]
+    * [Βίντεο 🎬 περιγραφής λύσης](./resources/Άσκηση%20κανονικοποίησης.mp4)[^1] 
 * [Ασκήσεις 2ης ΟΣΣ](./resources/Ασκήσεις%202ης%20ΟΣΣ.xlsx)
 * [Μετατροπή ERD σε σχεσιακό μοντέλο](./resources/Μετατροπή%20ERD%20σε%20Σχεσιακό%20μοντέλο.xlsx)
 
@@ -45,14 +47,16 @@
 ### Λογισμικά
 * [Project Libre](https://www.projectlibre.com/)
 * [Ganttproject](https://www.ganttproject.biz/download)
-* [Mermaid Live Editor](https://mermaid.live/) web application
-* [Figma](https://www.figma.com/) web application
+* [Mermaid Live Editor](https://mermaid.live/) 🌐
+* [Figma](https://www.figma.com/) 🌐
 * [Lucid Chart](https://www.lucidchart.com/) web application
 * [Draw.io ](https://github.com/jgraph/drawio-desktop/releases) 
-    * [Draw.io](https://app.diagrams.net/) web application
+    * [Draw.io](https://app.diagrams.net/) 🌐
 * [Miro](https://miro.com/)
-    * [Entity Relationship Diagram Template](https://miro.com/templates/entity-relationship-diagram/)
-    * [How to draw an ER diagram](https://miro.com/diagramming/how-to-draw-an-er-diagram/)
+    * [Entity Relationship Diagram Template](https://miro.com/templates/entity-relationship-diagram/) 🌐
+        * [How to draw an ER diagram](https://miro.com/diagramming/how-to-draw-an-er-diagram/)
+* [bpmn.io](https://bpmn.io/) 🌐
+* [Bonitasoft - Bonita Open Source Edition](https://www.bonitasoft.com/downloads)
 
 ### Bιβλία
 
