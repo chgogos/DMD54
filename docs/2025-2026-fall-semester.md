@@ -4,7 +4,7 @@
     * <https://hou.webex.com/meet/cgogos>
 * [Γουνόπουλος Ηλίας](https://www.linkedin.com/in/eliasgounopoulos/) - <gounopoulos.ilias@ac.eap.gr>
     * <https://hou.webex.com/meet/gounopoulos.ilias>
-* Κατσανάκης Ιωάννης - <katsanakis.ioannis@ac.eap.gr>
+* [Κατσανάκης Ιωάννης](https://www.linkedin.com/in/ioannis-katsanakis-3187375/) - <katsanakis.ioannis@ac.eap.gr>
     * <https://hou.webex.com/meet/katsanakis.ioannis>
 * [Κούφη Βασιλική](https://www.linkedin.com/in/vassiliki-koufi-163a6512/) - <koufi.vasiliki@ac.eap.gr>
     * <https://hou.webex.com/meet/koufi.vasiliki>
