@@ -7,7 +7,7 @@ theme:
   language: en
   palette:
     scheme: default
-    primary: green
+    primary: blue
 
 
 markdown_extensions:
