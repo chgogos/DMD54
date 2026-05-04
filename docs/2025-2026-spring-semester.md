@@ -21,13 +21,12 @@
 * [Εκφώνηση](./resources/6/spring_2025_2026_ge1.pdf)
 * [Ενδεικτική λύση](./resources/6/spring_2025_2026_ge1_sol.pdf)
 
-<!-- 
 ## Γραπτή εργασία 2 ΧΕΙΜΕΡΙΝΟΥ ΕΞΑΜΗΝΟΥ 2025-2026
 
-* [Εκφώνηση](./resources/5/fall_2025_2026_ge2.pdf)
-* [Ενδεικτική λύση](./resources/5/fall_2025_2026_ge2_sol.pdf)
+* [Εκφώνηση](./resources/6/spring_2025_2026_ge2.pdf)
+* [Ενδεικτική λύση](./resources/6/spring_2025_2026_ge2_sol.pdf)
 
-
+<!-- 
 ## Τελικές εξετάσεις
 
 * [Θέματα εξετάσεων Ιαν-2026 και λύσεις](./resources/5/DMD54_EXAMS_20260111_SOLUTIONS.pdf) -->
